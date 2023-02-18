@@ -2,6 +2,7 @@
 Este seguinte projeto é uma atividade prática simples usando a linguagem de programação: JavaScript
 
 No modelo da práica, desenvolvi uma página web simples, com uma calculadora funcional para um usuário comum. 
+
 👩🏻‍🏫 📊 📐 📈 📚 📉 🗒 📏 🧮 
 
 #
