@@ -12,3 +12,5 @@ No modelo da práica, desenvolvi uma página web simples, com uma calculadora fu
 Html / Css / JavaScript
 
 #
+
+![image](https://user-images.githubusercontent.com/123119430/219900167-9d925e9a-3d87-4577-82f0-e3a170207aca.png)
