@@ -3,7 +3,7 @@ Este seguinte projeto é uma atividade prática usando a linguagem de programaç
 
 No modelo da prática desenvolvi uma página web simples com uma calculadora funcional para um usuário comum. 
 
-👩🏻‍🏫 📊 📐 📈 📚 📉 🗒 📏 🧠 🧮 
+👩🏻‍🏫 📊 📐 📈 📚 📉 🗒 📏 🧮 
 
 #
 
